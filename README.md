@@ -26,7 +26,7 @@ output to the console.
 
 ## Prerequisites
 
-- Install your preferred IDE with C++ support, I used [Visual Studio with C++]([https://visualstudio.microsoft.com/vs/features/cplusplus/]) 
+- Install your preferred IDE with C++ support, I used [Visual Studio with C++](https://visualstudio.microsoft.com/vs/features/cplusplus/) 
 
 ## Installation and Usage
 
