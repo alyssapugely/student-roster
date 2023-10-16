@@ -37,7 +37,7 @@ output to the console.
 
 ## Development
 
-This program was developed without using third-party libraries. It contains a degree.h file to hold degree program enums, student.h and student.cpp files to create and manipulate student objects, 
-roster.h and roster.cpp files to create and manipulate roster objects, and a main.cpp file to demonstrate the program's functionality.
+This program contains a degree.h file to hold degree program enums, student.h and student.cpp files to create and manipulate student objects, roster.h and roster.cpp files to create 
+and manipulate roster objects, and a main.cpp file to demonstrate the program's functionality.
 
 
